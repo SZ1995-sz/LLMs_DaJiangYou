@@ -12,3 +12,5 @@
   - 最终使用Deepseek 构建三个不同复杂度的Agent
     - Chat Agent->Single Agent(with tool)->DeepResearch
 - 强化学习可以优化单个模型的性能上限
+  - > 课程：西湖大学-赵世钰 [《强化学习的数学原理》](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+

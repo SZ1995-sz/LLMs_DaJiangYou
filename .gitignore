@@ -1,0 +1,8 @@
+
+**/logs/
+**/data/
+**/checkpoints/
+
+
+.env
+
